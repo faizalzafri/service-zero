@@ -1,7 +1,7 @@
-package com.yourname.servicezero.cli;
+package com.github.faizalzafri.servicezero.cli;
 
-import com.yourname.servicezero.core.ServiceInfo;
-import com.yourname.servicezero.core.ServiceInfoProvider;
+import com.github.faizalzafri.servicezero.core.ServiceInfo;
+import com.github.faizalzafri.servicezero.core.ServiceInfoProvider;
 
 public class ServiceZeroCli {
 

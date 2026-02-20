@@ -1,4 +1,4 @@
-package com.yourname.servicezero.core;
+package com.github.faizalzafri.servicezero.core;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

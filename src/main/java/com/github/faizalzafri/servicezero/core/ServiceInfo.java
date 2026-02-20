@@ -1,4 +1,4 @@
-package com.yourname.servicezero.core;
+package com.github.faizalzafri.servicezero.core;
 
 public record ServiceInfo(
         String name,

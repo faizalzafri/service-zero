@@ -1,7 +1,7 @@
-package com.yourname.servicezero.api;
+package com.github.faizalzafri.servicezero.api;
 
-import com.yourname.servicezero.core.ServiceInfo;
-import com.yourname.servicezero.core.ServiceInfoProvider;
+import com.github.faizalzafri.servicezero.core.ServiceInfo;
+import com.github.faizalzafri.servicezero.core.ServiceInfoProvider;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

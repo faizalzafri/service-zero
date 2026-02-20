@@ -1,4 +1,4 @@
-package com.yourname.servicezero;
+package com.github.faizalzafri.servicezero;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
