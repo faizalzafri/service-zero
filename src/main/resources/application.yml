@@ -1,0 +1,15 @@
+spring:
+  application:
+    version: service-zero
+
+resilience4j:
+  retry:
+    instances:
+      reasoningService:
+        max-attempts: 3
+        wait-duration: 500ms
+
+  timelimiter:
+    instances:
+      reasoningService:
+        timeout-duration: 2s
