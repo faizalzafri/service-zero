@@ -1,6 +1,4 @@
-# Work on this project is currently paused.
-
-# Service Zero
+# Service Zero - Project on hold
 
 Service Zero is a minimal, production-oriented Java service designed as a foundation for modern backend systems.
 
